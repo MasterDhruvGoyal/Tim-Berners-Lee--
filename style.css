@@ -74,6 +74,6 @@ p {
     cursor: pointer;
 }
 
-.imgfotter:focus-visible {
+.imgfooter:focus-visible {
     text-decoration: none;
 }
