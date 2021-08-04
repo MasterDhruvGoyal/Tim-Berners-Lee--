@@ -65,17 +65,13 @@ p {
 }
 
 .link:hover {
-    background-color: darkblue;
+    background-color: lightblue;
 }
 
 .imgfooter {
     width: 150px;
     height: 150px;
     cursor: pointer;
-}
-
-.imgfooter:focus-visible {
-    text-decoration: none;
 }
 
 .container {
