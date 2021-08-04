@@ -73,3 +73,7 @@ p {
     height: 150px;
     cursor: pointer;
 }
+
+.imgfotter:focus-visible {
+    text-decoration: none;
+}
